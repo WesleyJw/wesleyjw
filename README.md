@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Agrotools Gestao E Monitoramento Geo-Espacial De Risco SA
 - 🌱 I’m currently learning  Data Engeneering
-- 💬 Ask me about Statistics, Data Science, Python, R.
+- 💬 Ask me about Statistics, Data Science, Machine Leaning, Business analysis, Data Analysis.
 
