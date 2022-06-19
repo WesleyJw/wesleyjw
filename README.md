@@ -56,7 +56,7 @@
   
   ##
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on Agrotools Gestao E Monitoramento Geo-Espacial De Risco SA
 - 🌱 I’m currently learning  Data Engeneering
