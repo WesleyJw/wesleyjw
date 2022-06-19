@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Wesley Lima, PhD. I love statistics, data science and everything about web software development and programming. 
 
 <!--
 **WesleyJw/wesleyjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
