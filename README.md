@@ -31,7 +31,7 @@
   <img align="center" alt="Wesley-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Wesley-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Wesley-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Wesley-Spark" height="30" width="40" src="hhttps://worldvectorlogo.com/download/apache-spark-5.svg"  >
+  <img align="center" alt="Wesley-Spark" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg"  >
   <img align="center" alt="Wesley-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> 
   <img align="center" alt="Wesley-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Wesley-Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"  >
@@ -55,5 +55,5 @@ About me:
 
 - 🔭 I’m currently working at Agrotools Gestao E Monitoramento Geo-Espacial De Risco SA
 - 🌱 I’m currently learning Data Engeneering and Power BI
-- 💬 Ask me about Statistics, Data Science, Machine Leaning, Data Analysis, Web Development, Rest Full API an all about data.
+- 💬 Ask me about Statistic, Data Science, Machine Learning, Data Analysis, Web Development and all about data.
 
