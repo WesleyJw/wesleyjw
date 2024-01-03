@@ -54,6 +54,6 @@
 About me:
 
 - 🔭 I’m currently working at Agrotools Gestao E Monitoramento Geo-Espacial De Risco SA
-- 🌱 I’m currently learning Data Engeneering and Power BI
-- 💬 Ask me about Statistic, Data Science, Machine Learning, Data Analysis, Web Development and all about data.
+- 🌱 I’m currently learning Data Engineering and DevOps.
+- 💬 Ask me about Statistics, Data Science, Machine Learning, Data Engineer, Web Development and all about data.
 
