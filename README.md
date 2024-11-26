@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Wesley Lima, holding a doctorate in Biometric and Applied Statistics and a degree in Biologic Science from the Rural Federal University of Pernambuco (UFRPE, Universidade Federal Rural de Pernambuco). I love statistics, data science, web software development, and programming.
+### Hi there 👋, I'm Wesley Lima!
+I hold a doctorate in Biometry and Applied Statistics and a degree in Biological Sciences from the Federal Rural University of Pernambuco (UFRPE). My passions include statistics, data science, web development, and programming, where I strive to merge analytical insights with innovative technology.
 
 <!--
 **WesleyJw/wesleyjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
